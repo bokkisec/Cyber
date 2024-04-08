@@ -3,3 +3,6 @@
 - As part of the Windows subteam, I spent a good amount of time working on these tools
 - NOTE: I DID NOT WRITE ALL OF THESE TOOLS, but contributed to many
 - Link to repo: https://github.com/UCI-CCDC/CCDC
+
+## Changelog
+- Update 1: Repo used for WRCCDC 2024
