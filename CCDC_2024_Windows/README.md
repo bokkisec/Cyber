@@ -6,3 +6,4 @@
 
 ## Changelog
 - Update 1: Repo used for WRCCDC 2024
+- Update 2: New scripts used for NCCDC 2024 Wildcard Round
